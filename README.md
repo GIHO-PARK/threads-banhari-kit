@@ -7,6 +7,13 @@ Claude Code가 매시간 내 Threads 계정으로
 
 광고·타로·웨딩·도박 같은 계정은 자동으로 거르고, 한 일은 전부 기록 파일에 남깁니다.
 
+## 🚀 제일 쉬운 설치: Claude에게 통째로 맡기기
+1. 이 페이지 **Code → Download ZIP** → 압축 풀기
+2. Claude Code를 열고 그 폴더를 알려주며 **"이 폴더 설치해줘"** 라고 말하기
+3. Claude가 `CLAUDE.md`를 읽고 질문(내 아이디·가게 이름·홈페이지 등) → 설정 → 시험 실행 → 자동 예약까지 진행합니다.
+
+📖 자세한 내용은 **[사용설명서.md](사용설명서.md)** 를 보세요.
+
 ## 준비물
 - Claude Code (데스크톱 앱 또는 터미널) + Claude 유료 플랜
 - Chrome + **Claude in Chrome 확장 프로그램** (Claude Code와 연결된 상태)
@@ -30,6 +37,8 @@ Claude Code가 매시간 내 Threads 계정으로
 ## 파일 구성
 | 파일 | 내용 |
 |---|---|
+| 사용설명서.md | 자세한 설치·사용·문제 해결·FAQ |
+| CLAUDE.md | Claude가 읽는 자동 설치 안내 (폴더를 Claude에게 주면 이대로 진행) |
 | config.md | **내 정보·설정** (여기만 고치면 됨) |
 | PROCEDURE.md | Claude가 매시간 따르는 절차 + 실제로 겪은 문제 해결 팁 |
 | posts.md / done.md / outreach.md | 게시글·반하리·먼저 찾아가기 기록 (처음엔 비어 있음) |
