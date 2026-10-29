@@ -8,7 +8,7 @@ Claude Code가 매시간 내 Threads 계정으로
 광고·타로·웨딩·도박 같은 계정은 자동으로 거르고, 한 일은 전부 기록 파일에 남깁니다.
 
 ## 🚀 제일 쉬운 설치: Claude에게 통째로 맡기기
-1. 이 페이지 **Code → Download ZIP** → 압축 풀기
+1. https://github.com/GIHO-PARK/threads-banhari-kit 에서 **Code → Download ZIP** → 압축 풀기
 2. Claude Code를 열고 그 폴더를 알려주며 **"이 폴더 설치해줘"** 라고 말하기
    - Claude Code가 처음이면 이 문장을 그대로 붙여 넣으세요:
      > 다운로드 폴더에 있는 threads-banhari-kit-main 폴더(안에 같은 이름 폴더가 또 있으면 그 안쪽)의 CLAUDE.md를 읽고 그대로 설치해줘
