@@ -46,3 +46,6 @@ Claude Code가 매시간 내 Threads 계정으로
 | posts.md / done.md / outreach.md | 게시글·반하리·먼저 찾아가기 기록 (처음엔 비어 있음) |
 | scripts/ | 좋아요·리포스트·댓글·팔로우용 브라우저 스크립트 |
 | commands/banhari.md | `/banhari` 명령 (예약 걸기) |
+
+## 크레딧
+원본: [hunteruk32](https://github.com/hunteruk32/threads-banhari-kit)님이 만들어 공유해 준 키트를 바탕으로 했습니다.
